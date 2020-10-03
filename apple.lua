@@ -13,7 +13,7 @@ local apple = {
     {
       type = "projectile",
       ammo_category = "capsule",
-      cooldown = 30,
+      cooldown = 16,
       range = 0,
       ammo_type =
       {
@@ -29,7 +29,7 @@ local apple = {
             {
               {
                 type = "damage",
-                damage = {type = "physical", amount = -5}
+                damage = {type = "physical", amount = -16}
               },
               {
                 type = "play-sound",
@@ -41,8 +41,8 @@ local apple = {
       }
     }
   },
-  order = "h[raw-fish]",
-  stack_size = 100
+  order = "h[raw-fish][apple]",
+  stack_size = 64
 }
 
 data:extend({
