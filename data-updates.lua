@@ -1,5 +1,5 @@
 table.insert(data.raw.tree["tree-01"].minable.results, {
-  {type = "item", name = "wood", probability = 1, amount = 4},
+  {data.raw.tree["tree-01"].minable.result}, -- is this oging to work??? only time will tell
   {type = "item", name = "apple", probability=0.16, amount_min=0, amount_max=3}
 })
 
