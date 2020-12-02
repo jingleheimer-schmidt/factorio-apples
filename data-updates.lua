@@ -4,72 +4,72 @@ table.insert(data.raw.tree["tree-01"].minable.results, {
 })
 
 table.insert(data.raw.tree["tree-02"].minable.results, {
-  {type = "item", name = "wood", probability = 1, amount = 4},
+  {data.raw.tree["tree-02"].minable.result},
   {type = "item", name = "apple", probability=0.16, amount_min=0, amount_max=3}
 })
 
 table.insert(data.raw.tree["tree-02-red"].minable.results, {
-  {type = "item", name = "wood", probability = 1, amount = 4},
+  {data.raw.tree["tree-02-red"].minable.result},
   {type = "item", name = "apple", probability=0.16, amount_min=0, amount_max=3}
 })
 
 table.insert(data.raw.tree["tree-03"].minable.results, {
-  {type = "item", name = "wood", probability = 1, amount = 4},
+  {data.raw.tree["tree-03"].minable.result},
   {type = "item", name = "apple", probability=0.16, amount_min=0, amount_max=3}
 })
 
 table.insert(data.raw.tree["tree-04"].minable.results, {
-  {type = "item", name = "wood", probability = 1, amount = 4},
+  {data.raw.tree["tree-04"].minable.result},
   {type = "item", name = "apple", probability=0.16, amount_min=0, amount_max=3}
 })
 
 table.insert(data.raw.tree["tree-05"].minable.results, {
-  {type = "item", name = "wood", probability = 1, amount = 4},
+  {data.raw.tree["tree-05"].minable.result},
   {type = "item", name = "apple", probability=0.16, amount_min=0, amount_max=3}
 })
 
 table.insert(data.raw.tree["tree-06"].minable.results, {
-  {type = "item", name = "wood", probability = 1, amount = 4},
+  {data.raw.tree["tree-06"].minable.result},
   {type = "item", name = "apple", probability=0.16, amount_min=0, amount_max=3}
 })
 
 table.insert(data.raw.tree["tree-06-brown"].minable.results, {
-  {type = "item", name = "wood", probability = 1, amount = 4},
+  {data.raw.tree["tree-06-brown"].minable.result},
   {type = "item", name = "apple", probability=0.16, amount_min=0, amount_max=3}
 })
 
 table.insert(data.raw.tree["tree-07"].minable.results, {
-  {type = "item", name = "wood", probability = 1, amount = 4},
+  {data.raw.tree["tree-07"].minable.result},
   {type = "item", name = "apple", probability=0.16, amount_min=0, amount_max=3}
 })
 
 table.insert(data.raw.tree["tree-08"].minable.results, {
-  {type = "item", name = "wood", probability = 1, amount = 4},
+  {data.raw.tree["tree-08"].minable.result},
   {type = "item", name = "apple", probability=0.16, amount_min=0, amount_max=3}
 })
 
 table.insert(data.raw.tree["tree-08-brown"].minable.results, {
-  {type = "item", name = "wood", probability = 1, amount = 4},
+  {data.raw.tree["tree-08-brown"].minable.result},
   {type = "item", name = "apple", probability=0.16, amount_min=0, amount_max=3}
 })
 
 table.insert(data.raw.tree["tree-08-red"].minable.results, {
-  {type = "item", name = "wood", probability = 1, amount = 4},
+  {data.raw.tree["tree-08-red"].minable.result},
   {type = "item", name = "apple", probability=0.16, amount_min=0, amount_max=3}
 })
 
 table.insert(data.raw.tree["tree-09"].minable.results, {
-  {type = "item", name = "wood", probability = 1, amount = 4},
+  {data.raw.tree["tree-09"].minable.result},
   {type = "item", name = "apple", probability=0.16, amount_min=0, amount_max=3}
 })
 
 table.insert(data.raw.tree["tree-09-brown"].minable.results, {
-  {type = "item", name = "wood", probability = 1, amount = 4},
+  {data.raw.tree["tree-09-brown"].minable.result},
   {type = "item", name = "apple", probability=0.16, amount_min=0, amount_max=3}
 })
 
 table.insert(data.raw.tree["tree-09-red"].minable.results, {
-  {type = "item", name = "wood", probability = 1, amount = 4},
+  {data.raw.tree["tree-09-red"].minable.result},
   {type = "item", name = "apple", probability=0.16, amount_min=0, amount_max=3}
 })
 
