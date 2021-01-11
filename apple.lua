@@ -12,6 +12,7 @@ local apple = {
     attack_parameters =
     {
       type = "projectile",
+      activation_type = "consume",
       ammo_category = "capsule",
       cooldown = 16,
       range = 0,
