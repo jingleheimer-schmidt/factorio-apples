@@ -5,6 +5,7 @@ Date: ????
     - updated mod description
     - standardized code formatting
     - simplified data-stage script
+    - reduced apple drop rate for all tree types
     - updated license to CC BY-NC-SA 4.0
   Locale:
     - added locale strings for mod name and description
