@@ -1,0 +1,1 @@
+Eating an apple heals the player by 16 health, and makes a nice crunchy minecraft eating sound. Varying percent chance to drop from certain trees
