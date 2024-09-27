@@ -2,6 +2,7 @@
 Version: 0.0.3
 Date: ????
   Changes:
+    - updated mod description
     - standardized code formatting
     - updated license to CC BY-NC-SA 4.0
   Locale:
