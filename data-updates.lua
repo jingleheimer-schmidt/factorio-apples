@@ -1,17 +1,17 @@
 
 local mining_results = {
-    ["tree-2"]       = { probability = 0.15, amount_min = 0, amount_max = 2 },
-    ["tree-2-red"]   = { probability = 0.30, amount_min = 1, amount_max = 6 },
-    ["tree-3"]       = { probability = 0.15, amount_min = 0, amount_max = 1 },
-    ["tree-4"]       = { probability = 0.05, amount_min = 0, amount_max = 4 },
-    ["tree-5"]       = { probability = 0.20, amount_min = 2, amount_max = 3 },
-    ["tree-7"]       = { probability = 0.15, amount_min = 0, amount_max = 2 },
-    ["tree-8"]       = { probability = 0.15, amount_min = 1, amount_max = 2 },
-    ["tree-8-brown"] = { probability = 0.25, amount_min = 0, amount_max = 2 },
-    ["tree-8-red"]   = { probability = 0.30, amount_min = 1, amount_max = 3 },
-    ["tree-9"]       = { probability = 0.45, amount_min = 0, amount_max = 6 },
-    ["tree-9-brown"] = { probability = 0.40, amount_min = 0, amount_max = 6 },
-    ["tree-9-red"]   = { probability = 0.45, amount_min = 0, amount_max = 6 },
+    ["tree-02"]       = { probability = 0.15, amount_min = 0, amount_max = 2 },
+    ["tree-02-red"]   = { probability = 0.30, amount_min = 1, amount_max = 6 },
+    ["tree-03"]       = { probability = 0.15, amount_min = 0, amount_max = 1 },
+    ["tree-04"]       = { probability = 0.05, amount_min = 0, amount_max = 4 },
+    ["tree-05"]       = { probability = 0.20, amount_min = 2, amount_max = 3 },
+    ["tree-07"]       = { probability = 0.15, amount_min = 0, amount_max = 2 },
+    ["tree-08"]       = { probability = 0.15, amount_min = 1, amount_max = 2 },
+    ["tree-08-brown"] = { probability = 0.25, amount_min = 0, amount_max = 2 },
+    ["tree-08-red"]   = { probability = 0.30, amount_min = 1, amount_max = 3 },
+    ["tree-09"]       = { probability = 0.45, amount_min = 0, amount_max = 6 },
+    ["tree-09-brown"] = { probability = 0.40, amount_min = 0, amount_max = 6 },
+    ["tree-09-red"]   = { probability = 0.45, amount_min = 0, amount_max = 6 },
 }
 
 for _, tree in pairs(data.raw.tree) do
