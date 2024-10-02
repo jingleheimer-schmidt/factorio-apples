@@ -18,7 +18,7 @@ for _, tree in pairs(data.raw.tree) do
     local apple_result = { type = "item", name = "apple", probability = 0.0, amount_min = 0, amount_max = 0 }
     local apple_data = mining_results[tree.name]
     if apple_data then
-        apple_result.probability = apple_data.probability / 5
+        apple_result.probability = apple_data.probability / 2
         apple_result.amount_min = apple_data.amount_min
         apple_result.amount_max = apple_data.amount_max
         if ((not tree.minable.results) and tree.minable.result) then
